@@ -28,7 +28,7 @@
 ## Running Locally
 Type the following commands into your terminal / command line to run Sudo-Flix locally
 ```bash
-git clone https://github.com/sussy-code/smov.git
+git clone git@github.com:GHOST117s/Movies.git
 cd smov
 git pull
 pnpm install
@@ -52,4 +52,4 @@ git push  # Push to YOUR repository
 
 
 ## Contact Me
-**Email:** *[dev@sudo-flix.lol](mailto:dev@sudo-flix.lol)* 
+**Email:** *[sidharthkumarsamal@gmail.com](mailto:sidharthkumarsamal@gmail.com)* 
